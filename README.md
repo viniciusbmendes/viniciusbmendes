@@ -20,7 +20,7 @@ Ferramentas de controle de versão: Git, GitHub
 <b> Contato </b> <br>
 Estou sempre aberto a novas conexões e oportunidades de colaboração. Bora trabalhar juntos ou só bater bater um papo sobre tecnologia? Só chamar!
 
-LinkedIn: <a href="https://www.linkedin.com/in/viniciusbmendes/">Vinicius Mendes</a> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/viniciusbmendes/" target="_blank">Vinicius Mendes</a> <br>
 Email: vinicius.bmendes@live.com
 
 <!--
