@@ -12,10 +12,10 @@ Sou apaixonado por resolver problemas complexos e estou sempre aberto a novos de
 <b> Tecnologias </b> <br>
 Minhas principais áreas de interesse incluem:
 
-Linguagens de programação: JavaScript, Python, TypeScript, HTML, CSS
-Frameworks: React, Node.js
-Bancos de dados: MySQL
-Ferramentas de controle de versão: Git, GitHub
+Linguagens de programação: JavaScript, Python, TypeScript, HTML, CSS<br>
+Frameworks: React, Node.js<br>
+Bancos de dados: MySQL<br>
+Ferramentas de controle de versão: Git, GitHub<br>
 
 <b> Contato </b> <br>
 Estou sempre aberto a novas conexões e oportunidades de colaboração. Bora trabalhar juntos ou só bater bater um papo sobre tecnologia? Só chamar!
